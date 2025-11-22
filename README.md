@@ -24,7 +24,7 @@ pip install yt-dlp
 sudo pacman -S mpv yt-dlp
 ```
 
-2. Scriptleri `.zshrc` veya `.bashrc` dosyanıza ekleyin:
+2. `music-player.sh` scriptini `.zshrc` veya `.bashrc` dosyanıza ekleyin:
 
 ```bash
 nano ~/.zshrc
