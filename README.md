@@ -7,8 +7,6 @@ Terminal üzerinden YouTube müzik çalmanızı sağlayan basit bash/zsh scriptl
 - 🎵 YouTube'dan müzik arama ve çalma
 - 🔍 Etkileşimli arama modu
 - 📃 Çalma listesi desteği
-- 🎲 Rastgele müzik özelliği
-- ⏯️ Müzik kontrolü (duraklat, devam ettir, ses kontrolü)
 
 ## Kurulum
 
