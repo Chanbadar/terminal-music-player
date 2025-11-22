@@ -59,17 +59,12 @@ ytmusic "ilk şarkı"
 playlist "şarkı1" "şarkı2" "şarkı3"
 ```
 
-### Rastgele müzik:
-```bash
-random_music
-```
 
 ## Fonksiyonlar
 
 - `music "şarkı"` - Tek şarkı çalar
 - `ytmusic` - Etkileşimli müzik modu
 - `playlist "şarkı1" "şarkı2"` - Çalma listesi
-- `random_music` - Rastgele müzik çalar
 - `listen` - YouTube linklerini çalmak için alias
 
 ## Gereksinimler
